@@ -1,2 +1,2 @@
-# Bear_Praxis-
+# Bear_Praxis
 Berlin Bear Praxis
